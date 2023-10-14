@@ -1,0 +1,56 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "c66076dc5910df25bacffee4de64c4eb",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-account.html\" target=\"_self\">My Account</a>",
+            "link_dest": "ACLN",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "My Account",
+            "url": "https://dts4357.mivamerchantdev.com/customer-account.html"
+        },
+        {
+            "active": 1,
+            "id": "257f8376e219e4f2b31f05a63e4c5eb2",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/wish-lists.html\" target=\"_self\">Wish List</a>",
+            "link_dest": "WLST",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Wish List",
+            "url": "https://dts4357.mivamerchantdev.com/wish-lists.html"
+        },
+        {
+            "active": 1,
+            "id": "d7d44cd81758b8ee488fc1749511c1e0",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/storefront.html\" target=\"_self\">Wholesale</a>",
+            "link_dest": "SFNT",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Wholesale",
+            "url": "https://dts4357.mivamerchantdev.com/storefront.html"
+        },
+        {
+            "active": 1,
+            "id": "cb63f1cd8c35b7dfaa8032a72f5acee8",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/deals.html\" target=\"_self\">Deals</a>",
+            "link_dest": "deals",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Deals",
+            "url": "https://dts4357.mivamerchantdev.com/deals.html"
+        },
+        {
+            "active": 1,
+            "id": "e29fcc5093f0b311b659102b7ae8aaf5",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/storefront.html\" target=\"_self\">Blog</a>",
+            "link_dest": "SFNT",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Blog",
+            "url": "https://dts4357.mivamerchantdev.com/storefront.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Resources"
+}

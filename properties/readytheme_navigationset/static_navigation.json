@@ -1,0 +1,57 @@
+{
+    "descrip": "This is the side navigation for all static content pages.",
+    "items": [
+        {
+            "active": 1,
+            "id": "726389af28c570717814cf3a19b1fc17",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://dts4357.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "c3a8d8de45944c799d8a34aaef193436",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://dts4357.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "a2bd2f724b32cf14962a0d05b1d5f54c",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">Frequently Asked Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequently Asked Questions",
+            "url": "https://dts4357.mivamerchantdev.com/frequently-asked-questions.html"
+        },
+        {
+            "active": 1,
+            "id": "8d9f8554fb08caccf6f7fea7b8b4d86e",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Policy</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Policy",
+            "url": "https://dts4357.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "63196fa783334e121ad4825fe128635d",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping &amp; Return Policy</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping & Return Policy",
+            "url": "https://dts4357.mivamerchantdev.com/shipping-and-return-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Static Page Navigation"
+}

@@ -1,0 +1,96 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "d1118c8c32cba69c3ccd759abf2ae5d2",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://dts4357.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "76b8a1fabcce219569e37ca875575d60",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-account.html\" target=\"_self\">Account</a>",
+            "link_dest": "ACLN",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Account",
+            "url": "https://dts4357.mivamerchantdev.com/customer-account.html"
+        },
+        {
+            "active": 1,
+            "id": "03c91cc56d089b1f0316f16768e2e32d",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://dts4357.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "cbf17bbea168e1dea2d79e9adb254a7f",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">FAQS</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "FAQS",
+            "url": "https://dts4357.mivamerchantdev.com/frequently-asked-questions.html"
+        },
+        {
+            "active": 1,
+            "id": "0380190253c9752f2d065fa28fae8355",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/order-history-list.html\" target=\"_self\">Order Status</a>",
+            "link_dest": "ORDH",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Order Status",
+            "url": "https://dts4357.mivamerchantdev.com/order-history-list.html"
+        },
+        {
+            "active": 1,
+            "id": "bb4d694c4321dc28e15f3325df29a954",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/wish-lists.html\" target=\"_self\">Wish Lists</a>",
+            "link_dest": "WLST",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Wish Lists",
+            "url": "https://dts4357.mivamerchantdev.com/wish-lists.html"
+        },
+        {
+            "active": 1,
+            "id": "c5b6b8520855fe077bcd9940d28f7cc7",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Policy</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Policy",
+            "url": "https://dts4357.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "817915e2218df05ae27ea9b40ab3f61e",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping &amp;amp; Returns</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping &amp; Returns",
+            "url": "https://dts4357.mivamerchantdev.com/shipping-and-return-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "142a8084e2c3cd1de077c10b11771764",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/site-map.html\" target=\"_self\">Site Map</a>",
+            "link_dest": "SMAP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Site Map",
+            "url": "https://dts4357.mivamerchantdev.com/site-map.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Quick Links"
+}

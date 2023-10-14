@@ -1,0 +1,48 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "2b6ac70eb5191bca1f219ba99bfe8acd",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Statement</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Statement",
+            "url": "https://dts4357.mivamerchantdev.com/privacy-policy.html"
+        },
+        {
+            "active": 1,
+            "id": "4c73236c0f9d1e15eedb8e0d1a1b46d3",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "6cf16fbf1b453ae28303fa850e867d9a",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/sub-category-1.html\" target=\"_self\">Subcategory 1</a>",
+                    "link_dest": "Sub-cat-1",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 1",
+                    "url": "https://dts4357.mivamerchantdev.com/sub-category-1.html"
+                },
+                {
+                    "active": 1,
+                    "id": "fedcae14731687b0bf1b9c6f9d1214e3",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/sub-category-2.html\" target=\"_self\">Subcategory 2</a>",
+                    "link_dest": "Sub-cat-2",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 2",
+                    "url": "https://dts4357.mivamerchantdev.com/sub-category-2.html"
+                }
+            ],
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/shipping-and-return-policy.html\" target=\"_self\">Shipping and Return Policies</a>",
+            "link_dest": "SARP",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shipping and Return Policies",
+            "url": "https://dts4357.mivamerchantdev.com/shipping-and-return-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Footer Disclaimer Navigation"
+}

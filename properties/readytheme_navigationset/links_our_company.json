@@ -1,0 +1,56 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "595a928490ac4b08f152b414fd842e41",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://dts4357.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "5dd8af252855b9375840e117f0f91205",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/storefront.html\" target=\"_self\">Careers</a>",
+            "link_dest": "SFNT",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Careers",
+            "url": "https://dts4357.mivamerchantdev.com/storefront.html"
+        },
+        {
+            "active": 1,
+            "id": "b1ba4e34a5a06aef7e4d079b55d1f0a7",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/storefront.html\" target=\"_self\">Store Locations</a>",
+            "link_dest": "SFNT",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Store Locations",
+            "url": "https://dts4357.mivamerchantdev.com/storefront.html"
+        },
+        {
+            "active": 1,
+            "id": "892598235fb03a6b2835e93feca2484c",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/storefront.html\" target=\"_self\">Terms &amp; Conditions</a>",
+            "link_dest": "SFNT",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Terms & Conditions",
+            "url": "https://dts4357.mivamerchantdev.com/storefront.html"
+        },
+        {
+            "active": 1,
+            "id": "b864ad9a2117ad3ff53562ad9f0464fe",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/privacy-policy.html\" target=\"_self\">Privacy Policy</a>",
+            "link_dest": "PRPO",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Privacy Policy",
+            "url": "https://dts4357.mivamerchantdev.com/privacy-policy.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Our Company"
+}

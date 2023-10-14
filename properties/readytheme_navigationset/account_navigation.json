@@ -1,0 +1,187 @@
+{
+    "descrip": "This is the side navigation for all account pages.",
+    "items": [
+        {
+            "active": 1,
+            "id": "a4b505168c6e06b852200bc73312a75b",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "84a48803951a4cbe9a6a0d2b86bc3050",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-edit.html\" target=\"_self\">Edit Information</a>",
+                    "link_dest": "ACED",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Information",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-edit.html"
+                },
+                {
+                    "active": 1,
+                    "id": "feca1bd6d9694400f602da6c85722ffd",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/change-email-address.html\" target=\"_self\">Change Email</a>",
+                    "link_dest": "CEML",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Change Email",
+                    "url": "https://dts4357.mivamerchantdev.com/change-email-address.html"
+                },
+                {
+                    "active": 1,
+                    "id": "c1a041df51a9ca926b12a07d62a0e0dc",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/change-password.html\" target=\"_self\">Change Password</a>",
+                    "link_dest": "CPWD",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Change Password",
+                    "url": "https://dts4357.mivamerchantdev.com/change-password.html"
+                }
+            ],
+            "link": "Personal Information",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Personal Information"
+        },
+        {
+            "active": 1,
+            "id": "c063b32e826e1641bf9cd30edae37dfc",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "59bebba32c80f5153fe680d2dcbd85ae",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-payment-cards.html\" target=\"_self\">Edit Cards</a>",
+                    "link_dest": "CPCD",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Cards",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-payment-cards.html"
+                },
+                {
+                    "active": 1,
+                    "id": "b091662d638ec3434e1afa800ffe6e4e",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-payment-card-add.html\" target=\"_self\">Add New Card</a>",
+                    "link_dest": "CPCA",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Add New Card",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-payment-card-add.html"
+                }
+            ],
+            "link": "Payment Options",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Payment Options"
+        },
+        {
+            "active": 1,
+            "id": "93a16014b190be59eba3be134c8cf9f7",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "768cbdcc660f662aeffe3284ae566271",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/order-history-list.html\" target=\"_self\">Order History</a>",
+                    "link_dest": "ORDH",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Order History",
+                    "url": "https://dts4357.mivamerchantdev.com/order-history-list.html"
+                },
+                {
+                    "active": 1,
+                    "id": "4f7cb32cce2e77625e930e361caf3180",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-subscriptions.html\" target=\"_self\">Manage Subscriptions</a>",
+                    "link_dest": "CSUB",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Manage Subscriptions",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-subscriptions.html"
+                },
+                {
+                    "active": 1,
+                    "id": "199e5041eb09f22cbbf6681a8280eb95",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/wish-lists.html\" target=\"_self\">Wish Lists</a>",
+                    "link_dest": "WLST",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Wish Lists",
+                    "url": "https://dts4357.mivamerchantdev.com/wish-lists.html"
+                }
+            ],
+            "link": "My Orders",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "My Orders"
+        },
+        {
+            "active": 1,
+            "id": "56f322ccaf7912f9a16e29cfdf5b2aed",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "7512de9b85b7709b957aa2b087bfbd94",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-account-balance.html\" target=\"_self\">Check Your Balance</a>",
+                    "link_dest": "ABAL",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Check Your Balance",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-account-balance.html"
+                },
+                {
+                    "active": 1,
+                    "id": "7a8af0bd2f3f65edba68926a106474a2",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/redeem-gift-certificate.html\" target=\"_self\">Redeem Gift Certificate</a>",
+                    "link_dest": "RGFT",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Redeem Gift Certificate",
+                    "url": "https://dts4357.mivamerchantdev.com/redeem-gift-certificate.html"
+                }
+            ],
+            "link": "Customer Credit",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Customer Credit"
+        },
+        {
+            "active": 1,
+            "id": "fbedbb9217f28735cdc0282d9ff01892",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "695edcf7dcd03676865878d012602c9f",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-address-book.html\" target=\"_self\">Edit Addresses</a>",
+                    "link_dest": "CABK",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Edit Addresses",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-address-book.html"
+                },
+                {
+                    "active": 1,
+                    "id": "db0054501402e11a8ad1fd3ceecb1911",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/customer-address-add.html\" target=\"_self\">Add New Address</a>",
+                    "link_dest": "CADA",
+                    "link_targ": "_self",
+                    "link_type": "G",
+                    "name": "Add New Address",
+                    "url": "https://dts4357.mivamerchantdev.com/customer-address-add.html"
+                }
+            ],
+            "link": "Address Book",
+            "link_targ": "_self",
+            "link_type": "N",
+            "name": "Address Book"
+        },
+        {
+            "active": 0,
+            "id": "ceab0bbd232fe58db82c9ae565d95f76",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/affiliate-edit.html\" target=\"_self\">Affiliate Information</a>",
+            "link_dest": "AFED",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Affiliate Information",
+            "url": "https://dts4357.mivamerchantdev.com/affiliate-edit.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Account Page Navigation"
+}

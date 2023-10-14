@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "fa28a6cb570c05b80f6fdb0d207cb613",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/deals.html\" target=\"_self\">Deals</a>",
+            "link_dest": "deals",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Deals",
+            "url": "https://dts4357.mivamerchantdev.com/deals.html"
+        },
+        {
+            "active": 1,
+            "id": "c1a94a5e74281806d6260d4e02e872c9",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/contact-us.html\" target=\"_self\">Help</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Help",
+            "url": "https://dts4357.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "ce946004f1ab8f37aafbbc975cfbbb5f",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/order-history-list.html\" target=\"_self\">Orders</a>",
+            "link_dest": "ORDH",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Orders",
+            "url": "https://dts4357.mivamerchantdev.com/order-history-list.html"
+        },
+        {
+            "active": 1,
+            "id": "935745e678e879c018a650bb29f2e8dc",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/storefront.html\" target=\"_self\">Gift Cards</a>",
+            "link_dest": "SFNT",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Gift Cards",
+            "url": "https://dts4357.mivamerchantdev.com/storefront.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Global Site Header Links"
+}
