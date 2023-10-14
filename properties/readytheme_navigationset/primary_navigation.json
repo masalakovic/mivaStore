@@ -1,0 +1,120 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "f108c3b0e9fcf6c52aa1ae60f1b6e6c5",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/our-catalog.html\" target=\"_self\">Shop All</a>",
+            "link_dest": "CTLG",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Shop All",
+            "url": "https://dts4357.mivamerchantdev.com/our-catalog.html"
+        },
+        {
+            "active": 1,
+            "id": "a2a0b8f0495b511f285e41260107208a",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "abea85ad9a149a148be8f7ec1985d796",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/sub-category-1.html\" target=\"_self\">Subcategory 1</a>",
+                    "link_dest": "sub-cat-1",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 1",
+                    "url": "https://dts4357.mivamerchantdev.com/sub-category-1.html"
+                },
+                {
+                    "active": 1,
+                    "id": "da9f966545202af5e77c96b328f563f1",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/sub-category-2.html\" target=\"_self\">Subcategory 2</a>",
+                    "link_dest": "sub-cat-2",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 2",
+                    "url": "https://dts4357.mivamerchantdev.com/sub-category-2.html"
+                }
+            ],
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/category-1.html\" target=\"_self\">Category 1</a>",
+            "link_dest": "category_01",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 1",
+            "url": "https://dts4357.mivamerchantdev.com/category-1.html"
+        },
+        {
+            "active": 1,
+            "id": "8d65feaad66d60b18d3c43abd7d12cb8",
+            "items": [
+                {
+                    "active": 1,
+                    "id": "d5edaa31ba93cf2f21df9235b2b83ba2",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/sub-category-3.html\" target=\"_self\">Subcategory 3</a>",
+                    "link_dest": "sub-cat-3",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 3",
+                    "url": "https://dts4357.mivamerchantdev.com/sub-category-3.html"
+                },
+                {
+                    "active": 1,
+                    "id": "5e2ab6b13bbe5aeef3d7c7d0e8b2fc09",
+                    "link": "<a href=\"https://dts4357.mivamerchantdev.com/sub-category-4.html\" target=\"_self\">Subcategory 4</a>",
+                    "link_dest": "Sub-cat-4",
+                    "link_targ": "_self",
+                    "link_type": "C",
+                    "name": "Subcategory 4",
+                    "url": "https://dts4357.mivamerchantdev.com/sub-category-4.html"
+                }
+            ],
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/category-2.html\" target=\"_self\">Category 2</a>",
+            "link_dest": "category_02",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 2",
+            "url": "https://dts4357.mivamerchantdev.com/category-2.html"
+        },
+        {
+            "active": 1,
+            "id": "18a78651c05fba918aa5f01d3f3a1cca",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/category-3.html\" target=\"_self\">Category 3</a>",
+            "link_dest": "category_03",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 3",
+            "url": "https://dts4357.mivamerchantdev.com/category-3.html"
+        },
+        {
+            "active": 1,
+            "id": "0c4d7679155cd2827ab6d90bac721c27",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/category-4.html\" target=\"_self\">Category 4</a>",
+            "link_dest": "category_04",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Category 4",
+            "url": "https://dts4357.mivamerchantdev.com/category-4.html"
+        },
+        {
+            "active": 1,
+            "id": "d1f2282cdd1f014432c0956c98ec41f4",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/sale.html\" target=\"_self\">Sale</a>",
+            "link_dest": "sale",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Sale",
+            "url": "https://dts4357.mivamerchantdev.com/sale.html"
+        },
+        {
+            "active": 1,
+            "id": "ea25e6ad9b8655bfce3d7c291deaa33d",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/featured-products.html\" target=\"_self\">Featured Products</a>",
+            "link_dest": "featured",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Featured Products",
+            "url": "https://dts4357.mivamerchantdev.com/featured-products.html"
+        }
+    ],
+    "layout": "H",
+    "name": "Primary Site Navigation Bar"
+}

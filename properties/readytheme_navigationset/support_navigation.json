@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "84c8a6848b1f90ae3070cd4d81be9cf7",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/about-us.html\" target=\"_self\">About Us</a>",
+            "link_dest": "ABUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "About Us",
+            "url": "https://dts4357.mivamerchantdev.com/about-us.html"
+        },
+        {
+            "active": 1,
+            "id": "cf9a56102f154f00ae86ed60fccf329a",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/contact-us.html\" target=\"_self\">Contact Us</a>",
+            "link_dest": "CTUS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Contact Us",
+            "url": "https://dts4357.mivamerchantdev.com/contact-us.html"
+        },
+        {
+            "active": 1,
+            "id": "27e1445b8af0048bf3d885321363d43a",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/frequently-asked-questions.html\" target=\"_self\">Frequent Questions</a>",
+            "link_dest": "FAQS",
+            "link_targ": "_self",
+            "link_type": "G",
+            "name": "Frequent Questions",
+            "url": "https://dts4357.mivamerchantdev.com/frequently-asked-questions.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Support Pages Navigation"
+}

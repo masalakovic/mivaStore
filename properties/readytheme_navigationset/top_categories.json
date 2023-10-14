@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "active": 1,
+            "id": "c66a8a4dc5d05305b75e399c34b7c0fb",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/coffee.html\" target=\"_self\">Coffee</a>",
+            "link_dest": "coffee",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Coffee",
+            "url": "https://dts4357.mivamerchantdev.com/coffee.html"
+        },
+        {
+            "active": 1,
+            "id": "4b943199cd9528c57837fef909032b9b",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/tea.html\" target=\"_self\">Tea</a>",
+            "link_dest": "tea",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Tea",
+            "url": "https://dts4357.mivamerchantdev.com/tea.html"
+        },
+        {
+            "active": 1,
+            "id": "4d83bbe9a062154aafb3e95b5e6c8695",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/equipment.html\" target=\"_self\">Equipment</a>",
+            "link_dest": "equipment",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Equipment",
+            "url": "https://dts4357.mivamerchantdev.com/equipment.html"
+        },
+        {
+            "active": 1,
+            "id": "d86ae0809c4e264a46470c68553c3a05",
+            "link": "<a href=\"https://dts4357.mivamerchantdev.com/drinkware.html\" target=\"_self\">Drinkware</a>",
+            "link_dest": "drinkware",
+            "link_targ": "_self",
+            "link_type": "C",
+            "name": "Drinkware",
+            "url": "https://dts4357.mivamerchantdev.com/drinkware.html"
+        }
+    ],
+    "layout": "S",
+    "name": "Top Categories"
+}
